@@ -1,2 +1,2 @@
-# evaluaci-n-requerimientos-funcionales
+# evaluacion-requerimientos-funcionales
 Ollama
